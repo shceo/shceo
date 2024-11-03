@@ -26,7 +26,7 @@
     <a href="https://x.com/shc3o">
         <img alt="X (Twitter)"
              src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
-    <a href="https://x.com/shc3o">
+    <a href="https://leetcode.com/u/shceo/">
         <img alt="LeetCode"
              src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
              
