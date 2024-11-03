@@ -17,7 +17,7 @@
     <a href="https://github.com/shceo">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="[https://shc3o.t.me]">
+    <a href="https://shc3o.t.me">
         <img alt="Telelgram"
              src="https://img.shields.io/badge/telegram-1877F2?style=for-the-badge&logo=telegram&logoColor=white"></a>
     <a href="aurora.co.uz">
