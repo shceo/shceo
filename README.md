@@ -114,8 +114,6 @@
 <p>
     <a href="#"><img alt="Windows 11"
                      src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"></a>
-    <a href="#"><img alt="Linux"
-                     src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
     <a href="#"><img alt="Android"
                      src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
     <a href="#"><img alt="Debian"
